@@ -1,0 +1,49 @@
+.navbar {
+  display: flex;
+  background: #0d263b;
+  padding: 25px 225px;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo-title {
+  font-family: Cerebri Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 32px;
+  color: #ffffff;
+  margin-left: 13px;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  font-family: Cerebri Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 17px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-right: 30px;
+}
+
+.btn {
+  font-family: Cerebri Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 17px;
+  text-transform: uppercase;
+  color: #0061df;
+  padding: 15px 20px;
+  border: none;
+  background: #ffffff;
+  border-radius: 3px;
+}
